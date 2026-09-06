@@ -31,7 +31,7 @@ $ cat /etc/status
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [**Network Security Lab**](https://github.com/Amirmuhammadmarvi/network-security-lab) | Isolated attack & defense lab — Nmap and Nikto recon across 23 open ports, exploited CVE-2011-2523 for a root shell in under 60 seconds, then applied UFW default-deny hardening. Includes a full assessment report. | VMware · Nmap · Nikto · Netcat · UFW | Complete |
-| [**Web Vulnerability Scanner**](https://github.com/Amirmuhammadmarvi/web-vuln-scanner) | Modular CLI tool detecting XSS and SQL injection through payload injection and response analysis, with error-signature matching across MySQL, PostgreSQL, MSSQL and Oracle. Generates structured JSON audit reports. | Python · argparse · requests | Complete |
+| [**Web Vulnerability Scanner**](https://github.com/Amirmuhammadmarvi/web-vuln-scanner) | Modular CLI tool detecting XSS and SQL injection through payload injection and response analysis, with error-signature matching across MySQL, PostgreSQL, MSSQL, SQLite and Oracle. Generates structured JSON audit reports. | Python · argparse · requests | Complete |
 | [**AI Security Triage Agent**](https://github.com/Amirmuhammadmarvi/ai-security-triage-agent) | LLM agent that triages vulnerability scan findings via tool-calling, scores findings by real exploitability rather than default CVSS ratings, and auto-generates remediation reports. | Python · LLM tool-calling | Complete |
 
 ---
