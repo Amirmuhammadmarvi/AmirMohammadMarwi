@@ -83,9 +83,9 @@ Designed and deployed VLAN segmentation across MikroTik and Cisco infrastructure
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirmuhammadmarvi&show_icons=true&theme=dark&bg_color=0d1117&title_color=E8FF47&icon_color=E8FF47&text_color=c9d1d9&border_color=21262d&hide_border=false)
+![GitHub Stats](https://github-readme-stats-amir-mohammad.vercel.app/api?username=Amirmuhammadmarvi&show_icons=true&theme=dark&bg_color=0d1117&title_color=E8FF47&icon_color=E8FF47&text_color=c9d1d9&border_color=21262d&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmuhammadmarvi&layout=compact&theme=dark&bg_color=0d1117&title_color=E8FF47&text_color=c9d1d9&border_color=21262d)
+![Top Languages](https://github-readme-stats-amir-mohammad.vercel.app/api/top-langs/?username=Amirmuhammadmarvi&layout=compact&theme=dark&bg_color=0d1117&title_color=E8FF47&text_color=c9d1d9&border_color=21262d)
 
 ---
 
